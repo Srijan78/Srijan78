@@ -58,9 +58,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srijan78/Srijan78/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Srijan78/Srijan78/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
