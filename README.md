@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  💻 Building clean & efficient web experiences • 🚀 Exploring real-world projects • 🎯 Improving problem-solving
+  💻 Building clean & efficient web experiences <br/>
+  🚀 Exploring real-world projects <br/>
+  🎯 Focused on problem-solving & system design
 </p>
 
 ---
@@ -13,9 +15,9 @@
 ## 🧠 About Me
 
 * 🎓 Student & aspiring developer
-* 🌱 Learning: **Java, Web Dev, APIs**
-* ⚡ Interests: **Frontend UI, AI apps, system design**
-* 🛠️ Goal: Build **real, useful, scalable products**
+* 🌱 Learning: **Java, Web Development, APIs**
+* ⚡ Interests: **Frontend UI, AI apps, system logic**
+* 🛠️ Goal: Build **real, scalable, impactful projects**
 
 ---
 
@@ -31,13 +33,13 @@
 
 ### 🌌 Space Events Website
 
-* Fetches historical space events by date
+* Displays historical space events by date
 * Uses APIs + caching for performance
 
 ### 🎟️ Event Crowd Management App
 
 * Smart system for large-scale event handling
-* Focus on efficiency & real-time flow
+* Focus on real-time efficiency
 
 ---
 
@@ -78,44 +80,3 @@
 </p>
 
 ---
-
-## ⚡ Enable Snake Animation (Important)
-
-Create this file:
-
-```
-.github/workflows/snake.yml
-```
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Srijan78
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-⚠️ Replace **Srijan78** everywhere or nothing will show up.
