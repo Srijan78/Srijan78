@@ -15,7 +15,6 @@
 
 - 🎓 B.Tech Computer Science @ SRM Institute of Science and Technology — **CGPA 9+**
 - 🏆 Competed in **AMD SlingShot**, **AI For Bharat**, **Smart India Hackathon**
-- 🔨 Currently building **Axiom** — a glassmorphic web application
 - 💡 Interests: applied ML, smart contracts, systems that scale
 
 ---
